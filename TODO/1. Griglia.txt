@@ -1,0 +1,6 @@
+--- Grigia dei pezzi ---
+
+Usare una Grid
+Dare un ID unico ad ogni casella 
+Per il colore delle caselle usare un for e dare ai numeri dispari una casella nera.
+Aggiungere le notazioni ai contorni della Grid (espandere quindi la grid di 1 tile in verticale e 1 tile in orizzontale)

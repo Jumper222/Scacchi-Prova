@@ -1,0 +1,11 @@
+1. Griglia
+2. Pezzi
+3. Movimento Pedoni
+4. Turni
+5. Movimento altri pezzi
+6. Mangiare pezzi
+7. Evoluzione pedoni
+8. Arrocco
+9. En Passant
+10. Checkmate
+

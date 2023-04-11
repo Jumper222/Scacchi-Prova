@@ -1,0 +1,5 @@
+--- Pezzi ---
+
+1. Creare un modo per dire a JS che un pezzo sta in una casella
+2. Aggiungere i pezzi
+3. Dividere eventualmente i pezzi in piu versioni dello stesso pezzo (pedone1,2,3,4,5,6,7,8 cavallo1,2 ecc)
